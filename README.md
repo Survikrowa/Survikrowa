@@ -31,9 +31,7 @@ Hello \o/ My name is Szymon and I'm 19 years old webdev developer! I build and c
 ### :zap: Work in Progress Projects
 
 <!--START_SECTION:activity-->
-## WooCommerce like Shop in NextJS and ExpressJS
-
-https://github.com/Survikrowa/nextjs-shop
+## SurviBlog
 <!--END_SECTION:activity-->
 
 ---
