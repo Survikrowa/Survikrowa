@@ -1,6 +1,6 @@
 ## 🙍 About me
 
-Hello \o/ My name is Szymon and I'm 19 years old webdev developer! I build and contribute to **open-source** projects. I love JS/React 💙 so it's also my main framework. Except frontend i also do some backend stuff in NodeJS! I love learning new stuff and my next goal is Elixir :D
+Hello \o/ My name is Szymon and I'm 22 years old webdev developer! I build and contribute to **open-source** projects. I love JS/React 💙 so it's also my main framework. Except frontend i also do some backend stuff in NodeJS! I love learning new stuff :D
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olaf-sulich/)](https://www.linkedin.com/in/szymon-hrabia-1376b31b4/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:szymonhrabia60@gmail.com)](mailto:szymonhrabia60@gmail.com)
